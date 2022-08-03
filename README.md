@@ -28,8 +28,8 @@ Screen Mobile
 ![](./images/screen-mobile.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fabiosmorinigo/expensesChartComponent](https://github.com/fabiosmorinigo/expensesChartComponent)
+- Live Site URL: [https://fabiosmorinigo.github.io/expensesChartComponent/](https://fabiosmorinigo.github.io/expensesChartComponent/)
 
 ### Built with
 
